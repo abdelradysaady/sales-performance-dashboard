@@ -20,6 +20,8 @@ I cleaned and organized the raw sales data, created KPIs, and designed an intera
 The dataset has been modified to ensure confidentiality.
 
 ## 📷 Preview
-(https://github.com/abdelradysaady/sales-performance-dashboard/blob/main/Annotation%202025-10-06%201.jpg?raw=true)
+([https://github.com/abdelradysaady/sales-performance-dashboard/blob/main/Annotation%202025-10-06%201.jpg?raw=true])
+
+
 If you want to collaborate or discuss data projects, feel free to connect!
 Made with 💡 by [Abdelrady Saady](https://www.linkedin.com/in/abdelradysaady)
